@@ -53,6 +53,11 @@ p {
 
 img {
   max-width: 100%;
+  width: 130px;
+
+}
+.logo1{
+  height: 130px;
 }
 
 input:focus,
